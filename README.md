@@ -1,3 +1,10 @@
+# Sales Profitability Analytics
+
+This project analyzes sales data to identify profitability trends, top-performing products, and customer insights.  
+
+🔗 **Live Demo**: [Click here to view the app](https://sales-profitability-analytics-r952upbft9jxwsapwww6ct.streamlit.app/)  
+
+📊 Built using Python, Pandas, Matplotlib, and Streamlit.
 # 📊 Sales & Profitability Analytics Dashboard
 
 ## 🎯 Project Overview
